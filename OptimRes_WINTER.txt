@@ -1,0 +1,146 @@
+12/01/2023 17:15 RES OPTIM 1 
+---------------------------------------------------------------------------------------------------------------------
+Exiting inner optimizer with x = [0.17091321324641873, 0.17091321324641873, 0.12957306065718335, 0.10398533761908198]
+Current distance to box: 0.00361971
+Decreasing barrier term μ.
+
+ * Status: success (reached maximum number of iterations)
+
+ * Candidate solution
+    Final objective value:     -4.005620e+11
+
+ * Found with
+    Algorithm:     Fminbox with Nelder-Mead
+
+ * Convergence measures
+    |x - x'|               = 0.00e+00 ≤ 0.0e+00
+    |x - x'|/|x'|          = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 3.04e-01 ≰ 1.0e-08
+
+ * Work counters
+    Seconds run:   11433  (vs limit Inf)
+    Iterations:    5
+    f(x) calls:    225
+    ∇f(x) calls:   1
+
+ * Minimum
+    -4.005619636321851e11
+ * PowerTOT
+     2.004350279160679e12
+
+-------------------------------------------------------------------------------------------------------------------------
+14/01/2023
+Fminbox
+-------
+Initial mu = 2.45769e6
+
+Fminbox iteration 1
+-------------------
+Calling inner optimizer with mu = 2.45769e6
+
+(numbers below include barrier contribution)
+Iter     Function value    √(Σ(yᵢ-ȳ)²)/n
+------   --------------    --------------
+     0    -5.999489e+12     2.463554e+10
+ * time: 0.0
+     1    -5.999489e+12     2.487590e+10
+ * time: 57.45700001716614
+     2    -5.999489e+12     2.375530e+10
+ * time: 170.45300006866455
+     3    -5.999489e+12     2.377950e+10
+ * time: 226.97900009155273
+
+Exiting inner optimizer with x = [0.025, 0.0, 0.0, 0.0]
+Current distance to box: 0.149533
+Decreasing barrier term μ.
+
+Fminbox iteration 2
+-------------------
+Calling inner optimizer with mu = 2457.69
+
+(numbers below include barrier contribution)
+Iter     Function value    √(Σ(yᵢ-ȳ)²)/n
+------   --------------    --------------
+     0    -5.999489e+12     2.377950e+10
+ * time: 0.0010001659393310547
+     1    -6.085006e+12     3.395586e+10
+ * time: 56.40700006484985
+     2    -6.085006e+12     3.415312e+10
+ * time: 113.29500007629395
+     3    -6.085006e+12     4.430431e+10
+ * time: 225.61800003051758
+
+Exiting inner optimizer with x = [0.07773437499999998, -0.017968750000000002, -0.003906250000000002, -0.023437500000000003]
+Current distance to box: 0.0967986
+Decreasing barrier term μ.
+
+Fminbox iteration 3
+-------------------
+Calling inner optimizer with mu = 2.45769
+
+(numbers below include barrier contribution)
+Iter     Function value    √(Σ(yᵢ-ȳ)²)/n
+------   --------------    --------------
+     0    -6.085006e+12     4.430431e+10
+ * time: 0.002000093460083008
+     1    -6.326863e+12     7.759012e+10
+ * time: 56.43600010871887
+     2    -6.326863e+12     7.689611e+10
+ * time: 113.17000007629395
+     3    -6.326863e+12     8.093344e+10
+ * time: 226.16499996185303
+
+Exiting inner optimizer with x = [0.16754760742187494, -0.029479980468750003, -0.025512695312500003, -0.004760742187500007]
+Current distance to box: 0.00698532
+Decreasing barrier term μ.
+
+Fminbox iteration 4
+-------------------
+Calling inner optimizer with mu = 0.00245769
+
+(numbers below include barrier contribution)
+Iter     Function value    √(Σ(yᵢ-ȳ)²)/n
+------   --------------    --------------
+     0    -6.326863e+12     8.093344e+10
+ * time: 0.0
+     1    -6.363076e+12     6.781839e+10
+ * time: 118.03699994087219
+     2    -6.363076e+12     3.980022e+10
+ * time: 183.3710000514984
+     3    -6.363076e+12     1.771794e+10
+ * time: 240.67799997329712
+
+Exiting inner optimizer with x = [0.16754760742187494, -0.029479980468750003, -0.025512695312500003, -0.004760742187500007]
+Current distance to box: 0.00698532
+Decreasing barrier term μ.
+
+([9.599770772788222, -1.6890784609874736, -1.4617697654094493, -0.2727704346936296], [3.127381405841953e11, 5.431628542623179e11, 3.582597501351561e11, 1.4384524140960684e11, 9.111491980295845e11, 5.711916745652672e11, 8.762712689050386e11, 1.3381477306859717e12, 8.00480417532166e11, 4.2687368555779285e11  …  5.354484006270797e11, 6.178285389555554e11, 4.0317463625219376e10, 5.928345734164758e11, 4.3209018252303467e11, 7.063283451931316e10, 1.5348129781977478e11, 1.9820012011199664e11, 3.6157366766519977e11, 4.979701092800679e11])
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18:52 15/01/2023	
+[ Info: 2582491 milliseconds
+┌ Info:  * Status: failure (reached maximum number of iterations)
+│ 
+│  * Candidate solution
+│     Final objective value:     -6.356941e+12
+│ 
+│  * Found with
+│     Algorithm:     Fminbox with Nelder-Mead
+│ 
+│  * Convergence measures
+│     |x - x'|               = 3.40e-02 ≰ 0.0e+00
+│     |x - x'|/|x'|          = 1.82e-01 ≰ 0.0e+00
+│     |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+│     |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+│     |g(x)|                 = 2.48e-01 ≰ 1.0e-08
+│ 
+│  * Work counters
+│     Seconds run:   2546  (vs limit Inf)
+│     Iterations:    5
+│     f(x) calls:    57
+└     ∇f(x) calls:   1
+┌ Info:  *MINIMIZER
+└     [9.823980322679526, -0.6864592832862105, -0.4278097863361681, 4.213306691416667]
+[ Info: Total power = 1.5655413842199756e13

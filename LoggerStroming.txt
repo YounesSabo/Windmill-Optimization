@@ -1,0 +1,96 @@
+┌ Warning: Calculation for the power are starting @time 2023-01-16T13:48:32.601
+└ @ Main e:\BACKUP 0812\Documents\2022-2023\ES313\Project\Final\StromingST.jl:517
+┌ Warning: Calculation for the power are starting @time 2023-01-16T13:50:33.804
+└ @ Main e:\BACKUP 0812\Documents\2022-2023\ES313\Project\Final\StromingST.jl:517
+[ Info: Total power = 1.4625392616819229e13
+┌ Warning: Calculation for the power are starting @time 2023-01-16T13:53:27.160
+└ @ Main e:\BACKUP 0812\Documents\2022-2023\ES313\Project\Final\StromingST.jl:517
+[ Info: Total power = 1.6223843844762744e13
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\db3d60d39813bf806d1b4a8032e3a2f892c75738\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\a5b7c195243758d88c64cd8547e527fbace3877b\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\e5872943f1078a6397a4f4d0f760db959ec50630\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Program Files\Julia 1.7.1\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\431cad9bf95e817b5fc813666e353ae36b2202c0\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\f9f799e6ae3fe7f244bb55052db7ff1cea876c27\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\4f67e82ee394e74ca63b7dc589dcc9218c12b20a\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\6a5456c156251deff41ae40ac8dfbb3d8c808ffe\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\72037f1415327f12277eed0521c861517630a0ba\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\5af028f5ee6fc5d6923b4769eca4bc199914e6bd\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\41eb25ea50f277f03154d52354602687fb1abc84\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\c916a560fa109a4db3d6938a8ab1a6a8b4a09731\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\3628616b5a5a8fd8628079ae4fb0d8948fdb37bc\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\3aff78028a0bb2ad40ebc3ae7e465a52dcbe2730\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\38d4f07d7bebeb1d35473280d1ef56f7d8e6991d\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\ee9d999d28081333cf8ec10830fd77b75359226b\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\2ae55b726ee1f4063216b19a1ffb59d3d5b0a6eb\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\017f69ccc5ddfc0405e5bf8326a572300498e06c\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\1b573c0aaf4a3a73f296a61c2cacbee17ac0d4e3\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\7d57f5f863fd09f31bbff6d08d53bfc07f49c3e6\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\6f5e7c4e3249d2073c64e6beaa3abcd7ae4fa9bc\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\0c393ed4faa8cdf04f992ff605abaed1c1172f69\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\160ce27d1af09edffbb7d9f1833f6d3bdefad491\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\c6e48d3563556547ad4cc0021c2cffa066a079df\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\da2e0ac84abbe712490f8ee73aca3d512f1eaaab\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\48a7da60b90abc7b20623102f7822d036bdeea75\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\5b9eb98a95e718b9ddc16d01fd70b19736b13e0b\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\e2bc28a38e71d07d41a27f8d4b3132c5d1b5a22d\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\09afce8db647ca1b603103c82397809ce7189340\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\4a2cc4b6aef321d12f704be234ed46372e67d1a2\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\2e9a29903fddf79371cd5f82327f70ada670a234\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\3a34dec1472dcb90db22005558267071d9a8b913\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\01b969d96551292e78f0acfa204f120b09f4e7b4\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\14c036187f02f2def7e45b19b27ea5d4a5873e21\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Users\Sabori.Y\.julia\artifacts\467043fe4cfff97066f862420f4285eeec6e31ea\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Program Files\Julia 1.7.1\bin\..\lib\julia)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Program Files\Julia 1.7.1\bin\..\lib)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: `windows`: AddDllDirectory(C:\Program Files\Julia 1.7.1\bin)
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\funcptrs.jl:56
+┌ Debug: Found an embedded environment
+│   mime_type[] = "svg"
+│   file_path[] = "C:\\Users\\Sabori.Y\\AppData\\Local\\Temp\\jl_wir4K3T46L.svg"
+│   ENV["GKSwstype"] = "svg"
+│   ENV["GKS_FILEPATH"] = "C:\\Users\\Sabori.Y\\AppData\\Local\\Temp\\jl_wir4K3T46L.svg"
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\GR.jl:322
+┌ Debug: Default GKS_ENCODING
+│   ENV["GKS_ENCODING"] = "utf8"
+└ @ GR C:\Users\Sabori.Y\.julia\packages\GR\I1aTM\src\GR.jl:347
+┌ Warning: Calculation for the power are starting @time 2023-01-16T14:34:40.959
+└ @ Main e:\BACKUP 0812\Documents\2022-2023\ES313\Project\Final\StromingST.jl:517
+[ Info: Total power = 1.0032704611974596e12

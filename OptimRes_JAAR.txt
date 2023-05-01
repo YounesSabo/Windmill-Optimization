@@ -1,0 +1,71 @@
+12/01/2023 17:15 RES OPTIM 1 
+---------------------------------------------------------------------------------------------------------------------
+Exiting inner optimizer with x = [0.17362902104175731, 0.17421919463575825, 0.07600930389348358, 0.03633204348190958]
+Current distance to box: 0.000313731
+Decreasing barrier term μ.
+
+ *MINIMIZER
+4-element Vector{Float64}:
+ 9.948210106680857
+ 9.982024562797179
+ 4.355012316823904
+ 2.0816727525992116
+
+ *MINIMUM
+-3.206250027466135e11
+
+-------------------------------------------------------------------------------------------------------------------------
+Voor de eerste 24 weken te optimaliseren krijgen we volgende resultaten
+Exiting inner optimizer with x = [0.17362902104175731, 0.17421919463575825, 0.07600930389348358, 0.07949806522286437]
+Current distance to box: 0.000313731
+Decreasing barrier term μ.
+
+-2.880604096271379e11
+
+Met iterations = 30,outer_iterations = 3
+
+-------------------------------------------------------------------------------------------------------------------------
+Voor 24 eerste weken
+Exiting inner optimizer with x = [0.17091321324641873, 0.17091321324641873, 0.14848509310607202, 0.16565177901102915]
+Current distance to box: 0.00361971
+Decreasing barrier term μ.
+
+-4.005622778052533e11
+
+*Met iterations = 3, outer_iterations = 20
+
+*TOT  PROD  
+    2.0043498729302773e12
+-------------------------------------------------------------------------------------------------------------------------
+16:36 15/01/2023
+[ Info: 25559340 milliseconds
+┌ Info:  * Status: success (reached maximum number of iterations)
+│ 
+│  * Candidate solution
+│     Final objective value:     -1.472721e+13
+│ 
+│  * Found with
+│     Algorithm:     Fminbox with Nelder-Mead
+│ 
+│  * Convergence measures
+│     |x - x'|               = 0.00e+00 ≤ 0.0e+00
+│     |x - x'|/|x'|          = 0.00e+00 ≤ 0.0e+00
+│     |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+│     |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+│     |g(x)|                 = 3.46e-01 ≰ 1.0e-08
+│ 
+│  * Work counters
+│     Seconds run:   25410  (vs limit Inf)
+│     Iterations:    12
+│     f(x) calls:    165
+└     ∇f(x) calls:   1
+┌ Info:  *MINIMIZER
+└     [9.841288690931625, 2.7777230977179803, 0.5354271486581488, 9.480643325371258]
+┌ Warning: Calculation for the power are starting @time 2023-01-15T18:06:54.691
+└ @ Main c:\Users\Sabori.Y\Documents\KMS\175\3Ba\ES313_JULIA\ES313\Project\SublimeText\StromingST.jl:517
+[ Info: Total power = 1.62238476559721e13
+
+
+
+
+	
