@@ -1,0 +1,42 @@
+Fminbox
+-------
+Initial mu = 0.0
+
+Fminbox iteration 1
+-------------------
+Calling inner optimizer with mu = 0.0       
+
+(numbers below include barrier contribution)
+Iter     Function value    √(Σ(yᵢ-ȳ)²)/n 
+------   --------------    --------------
+     0    -4.331776e+11     0.000000e+00 
+ * time: 0.0
+     1    -4.331776e+11     1.792786e+00
+ * time: 50.36500000953674
+     2    -4.331776e+11     0.000000e+00
+ * time: 127.55099987983704
+
+Exiting inner optimizer with x = [0.0011799387799149436]
+Current distance to box: 0.173353
+Decreasing barrier term μ.
+
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     -4.331776e+11
+
+ * Found with
+    Algorithm:     Fminbox with Nelder-Mead
+
+ * Convergence measures
+    |x - x'|               = 1.02e-01 ≰ 0.0e+00
+    |x - x'|/|x'|          = 8.68e+01 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 0.00e+00 ≤ 1.0e-08
+
+ * Work counters
+    Seconds run:   267  (vs limit Inf)
+    Iterations:    1
+    f(x) calls:    9
+    ∇f(x) calls:   1
